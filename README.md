@@ -6,6 +6,3 @@ What this plugin does is that whenever the user that you specify breaks a block,
  
   
    
-    
-Thats right Asher, it was me lol.  
-I didn't love the way that you immediently thought it was Morgan, but that can be excused with a deop.
